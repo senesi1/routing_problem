@@ -1,1 +1,1 @@
-This is the readme for the routing_problem repository.  Welcome!
+These Jupyter notebooks provide the code for optimizing the work (calculated as the product of weight and distance) of a trash pickup truck along one of several routes in Howard County, MD, as provided by the Howard County Bureau of Environmental Services.  
